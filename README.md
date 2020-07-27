@@ -1,3 +1,3 @@
 # Minigame-with-python
 
-pip install pygame
+'''pip install pygame'''
