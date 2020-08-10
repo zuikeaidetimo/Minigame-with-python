@@ -1,4 +1,4 @@
 # Minigame-with-python
 
->Install<
+Install
         pip install pygame
